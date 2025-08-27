@@ -1,7 +1,6 @@
-# KuberAI Gold Investment Agent - Full-Stack Web Application
+# KuberAI Gold Investment Agent - 
 
-A sophisticated AI agent designed as a platform to simplify digital gold investments. The application features a secure, role-based workflow, catering to three distinct user types: **Normal Users**, **Admins**, and the **System** itself. The project is built with a modern technology stack, featuring a robust **FastAPI** backend, **MySQL** database, and a responsive, AI-driven interface for both conversational queries and transactional operations.
-
+A sophisticated AI agent designed as a platform to simplify digital gold investments. The application features a secure, role-based workflow, catering to three distinct user types: Normal Users, Admins, and the System itself. The project is built with a modern technology stack, featuring a robust FastAPI backend, MySQL database, and a responsive, AI-driven interface for both conversational queries and transactional operations.
 ---
 
 ## ✨ Core Features
@@ -36,7 +35,7 @@ A sophisticated AI agent designed as a platform to simplify digital gold investm
 | ORM           | SQLAlchemy                            |
 | AI / LLM      | Google Gemini API (gemini-1.5-flash) |
 | Live Data     | GoldApi.io                            |
-| Deployment    | Python (Render, Vercel, PythonAnywhere) |
+| Deployment    | Python (Render) |
 
 ## 📂 Project Structure
 ```
