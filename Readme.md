@@ -1,6 +1,8 @@
 # KuberAI Gold Investment Agent - 
 
-A sophisticated AI agent designed as a platform to simplify digital gold investments. The application features a secure, role-based workflow, catering to three distinct user types: Normal Users, Admins, and the System itself. The project is built with a modern technology stack, featuring a robust FastAPI backend, MySQL database, and a responsive, AI-driven interface for both conversational queries and transactional operations.
+This project is a sophisticated, multi-layered AI agent built to fulfill the requirements of the SimplifyMoney backend assignment. It emulates the KuberAI workflow for gold investments by providing two primary APIs: a conversational AI endpoint to assist users and a transactional endpoint to handle digital gold purchases.
+
+The application is built with a focus on resilience, intelligence, and professional software design patterns.
 ---
 
 ## ✨ Core Features
